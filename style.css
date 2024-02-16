@@ -225,16 +225,7 @@ width: 200px;
   animation-timeline: 20s;
 animation-duration: 20s;
 animation-iteration-count: infinite;
-
-
-
 }
-
-
-
- 
- 
-
 @keyframes aaaaa{
 0%{
   margin-bottom: 100px;
@@ -256,4 +247,8 @@ animation-iteration-count: infinite;
   section{
     flex-direction: column;
   }
+}
+button:hover{
+border-color: green;
+color:  yellowgreen;
 }
